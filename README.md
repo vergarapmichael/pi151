@@ -1,3 +1,3 @@
 # pi151
 
-print("hi")
+print("main menu")
